@@ -53,7 +53,21 @@ calculate demographic percentages, examine monthly diagnosis
 patterns, and identify the most frequent obsession and compulsion
 categories.
 
-## Key Findings
+## SQL Query Results
+
+### 1. Patient Count and Obsession score
+![Gender Analysis](screenshots/1s.png)
+
+### 2. Patient count percentage
+![Gender Percentage](screenshots/2s.png)
+
+### 3. Count of monthly patient visit
+![Monthly Diagnosis Analysis](screenshots/3s.png)
+
+### 4. common obsession type and average obsession score
+![Obsession Analysis](screenshots/4s.png)
+
+
 
 ## Key Findings
 
